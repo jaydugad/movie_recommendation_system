@@ -1,4 +1,4 @@
-# movie_recommendation_system
+# Movie Recommendation System
 
 Welcome to the Movie Recommendation System project! This project aims to provide personalized movie recommendations using advanced vectorization techniques and a user-friendly web interface built with Streamlit.
 
